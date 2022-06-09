@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/csc3007_assignment01/static/css/main.e3db4c04.css",
+    "main.js": "/csc3007_assignment01/static/js/main.6a87ee79.js",
+    "index.html": "/csc3007_assignment01/index.html",
+    "main.e3db4c04.css.map": "/csc3007_assignment01/static/css/main.e3db4c04.css.map",
+    "main.6a87ee79.js.map": "/csc3007_assignment01/static/js/main.6a87ee79.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3db4c04.css",
+    "static/js/main.6a87ee79.js"
+  ]
+}
